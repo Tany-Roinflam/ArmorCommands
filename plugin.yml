@@ -1,0 +1,10 @@
+name: ArmorCommands
+main: pers.tany.armorcommands.Main
+version: 1.0.0
+author: tany
+depend: [ArmorEquipEvent]
+description: 装备执行指令
+commands:
+  ArmorCommands:
+    usage: /ArmorCommands
+    aliases: [ac]
